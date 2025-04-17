@@ -14,5 +14,12 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,mui,nodejs,express,nestjs,python,c,postgres" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,bash,vscode,vercel,aws,emotion,netlify,postman,prisma,npm" />
+</p>
+
+
 </body>
 </html>
