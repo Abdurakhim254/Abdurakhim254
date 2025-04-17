@@ -5,8 +5,8 @@
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-BekzodQodirov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abduraxim-%D0%B0bdumajidov-b716a7270/)](https://www.linkedin.com/in/abduraxim-%D0%B0bdumajidov-b716a7270/) 
-[![Telegram Badge](https://img.shields.io/badge/@bekzod_22449-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abduraxim_abdumajidov)]([(https://t.me/abduraxim_abdumajidov)]) 
+[![Linkedin Badge](https://img.shields.io/badge/-Abduraxim_Abdumajidov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abduraxim-%D0%B0bdumajidov-b716a7270/)](https://www.linkedin.com/in/abduraxim-%D0%B0bdumajidov-b716a7270/) 
+[![Telegram Badge](https://img.shields.io/badge/@abduraxim_abdumajidov?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/abduraxim_abdumajidov)]([(https://t.me/abduraxim_abdumajidov)]) 
 </div>    
 <div align="center">
   <h2>🚀 Github Commits</h2>
