@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,bash,vscode,vercel,aws,emotion,netlify,postman,prisma,npm" />
 </p>
 
-<p align="start">
+<p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Abdurakhim254&show_icons=true&theme=radical&count_private=true" />
 </p>
 
